@@ -1,0 +1,17 @@
+node_modules
+build
+tmp
+
+.env
+.env.local
+.env.production.local
+.env.development.local
+
+npm-debug.log
+yarn-error.log
+
+.fleet
+.idea
+.vscode
+
+.DS_Store
